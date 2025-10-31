@@ -32,3 +32,23 @@ h3.project a {
     text-decoration: none;
     color: black;
 }
+
+.footer {
+    background-color: steelblue;
+    color: white;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    gap: 5px;
+    margin-top: 30px;
+}
+
+.footer a {
+    color: white;
+    text-decoration: None;
+}
+
+.footer p {
+    margin: 0px;
+}
