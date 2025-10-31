@@ -28,6 +28,10 @@ p {
     width: 800px;
 }
 
+ul {
+    margin-top: 0px;
+}
+
 h3.project a {
     text-decoration: none;
     color: black;
@@ -47,6 +51,11 @@ h3.project a {
 .footer a {
     color: white;
     text-decoration: None;
+    font-size: 14px;
+}
+
+.footer a:hover {
+    color: lightgrey;
 }
 
 .footer p {
